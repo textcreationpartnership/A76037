@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last ioyfull intelligence from his excellency his quarters in Reading: VVherein is contained, the propositions of agreement, upon which the town was delivered, with the manner of the delivery, how they marcht away without their ordnance, and the true estate of his excellencies army at this present. Faithfully related in two letters sent from good hands in the army, to a person of good quality in the city, bearing date Aprill 27. 1643.</title>
+            <author>Alexander, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76037</idno>
+            <idno type="STC">Wing A916A</idno>
+            <idno type="STC">Thomason E100_5</idno>
+            <idno type="STC">ESTC R13354</idno>
+            <idno type="EEBO-CITATION">99859463</idno>
+            <idno type="PROQUEST">99859463</idno>
+            <idno type="VID">155855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155855)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last ioyfull intelligence from his excellency his quarters in Reading: VVherein is contained, the propositions of agreement, upon which the town was delivered, with the manner of the delivery, how they marcht away without their ordnance, and the true estate of his excellencies army at this present. Faithfully related in two letters sent from good hands in the army, to a person of good quality in the city, bearing date Aprill 27. 1643.</title>
+                  <author>Alexander, John, 17th cent.</author>
+                  <author>Alexander, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill 29. Printed for Thomas Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second letter signed: "Aprill 27 afternoon. 1643."; "John Alexander.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reading (Berkshire) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155855:1" rendition="simple:additions"/>
+            <p>THE Laſt ioyfull Intelligence FROM His Excellency HIS QUARTERS IN READING: VVherein is contained, the Propoſitions of agreement, upon which the town was de<g ref="char:EOLhyphen"/>livered, with the manner of the delivery, how they marcht away without their Ordnance, and the true eſtate of his Excellencies Army at this preſent.</p>
+            <p>
+               <hi>Faithfully related in two Letters ſent from good hands in the Army, to a perſon of good quality in the City, bearing date</hi> Aprill 27. 1643.</p>
+            <p>
+               <hi>LONDON, Aprill</hi> 29. Printed for <hi>Thomas Watſon.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155855:2"/>
+            <pb n="1" facs="tcp:155855:2"/>
+            <head>The laſt Intelligence from his Excel<g ref="char:EOLhyphen"/>lency his Quarters at <hi>Reading,</hi> ſince the ſurrendring up of the town.</head>
+            <p>SIR, To inform you of the whole pro<g ref="char:EOLhyphen"/>ceedings ſince we came to this town, we underſtand the ſtate of it, knowing it to munition; the Welchmen have already fea<g ref="char:EOLhyphen"/>ſted with a horſe or two, and thoſe lean ones, in regard that horſe-meat hath much failed of late, which occaſioned an endeavour of the Horſe to go away on Saturday night; but but they were ſtopt by the Foot: ſo likewiſe for their ammunition, they want powder, but bullets more, ſhooting very ſeldome, and very ſtrange ſhot, as ſtones, &amp; ſuch like. The Governour is by all ſorts confeſſed to be wounded; ſome ſay, ſhot in the neck, others, bruiſed by the fall of a ſtone from a houſe, but
+<pb n="2" facs="tcp:155855:3"/>he is ſo ill, that he executes not his place, which cauſes much confuſion and diſtracti<g ref="char:EOLhyphen"/>on among them. Some of the Town have come out, and informed us to this purpoſe, &amp; that they had an intent to leave the town; which it's like enough they would have done, had it not been as hazardous as their ſtay, in regard of our Quarters. We took pri<g ref="char:EOLhyphen"/>ſoner on Sunday morning a ſervant of Sir LEVVIS DIVES, who was ſent to give the Town notice of ammunition coming to them; he ſwam over the river and back a<g ref="char:EOLhyphen"/>gain, but was intercepted, and the Supply was prevented by ſome Troupes of horſe of ours, and Colonel BARKLAYS Regiment, and 200. of Colonell HOLBORNES, who lay in the way about Caveſham: We likewiſe tooke a fellow equally guilty of folly and knavery; he was once of the Lord RO<g ref="char:EOLhyphen"/>BERTS his Regiment, and ran away to the enemy, and was now hired to blow up our Magazine, as himſelf confeſſes, but knew no way, as he ſays, but to throw a light match in<g ref="char:EOLhyphen"/>to a barrell, ſuppoſing he ſhould have found
+<pb n="3" facs="tcp:155855:3"/>one open; he was to have had five pound for his paines; but now inſtead of that a halter. Yeſterday hearing that the King was advancing this way to the reliefe of the Towne with what Force he could make up, which is not much in the abſence of his Parties: We ſent a ſtrong Party of Horſe and Dragooners, under the command of Colo<g ref="char:EOLhyphen"/>nell MIDDLETON, who at a place called Dorcheſter, ſeven or eight miles from Ox<g ref="char:EOLhyphen"/>ford, ſurprized the Kings Regiment of Foot, now again under the command of Colonell WIL. VAVASOUR, that man of honour, by whoſe loſſe if we can gain ſo much wiſ<g ref="char:EOLhyphen"/>dome as to truſt no more of them upon their loſt reputation, we ſhall make a good bar<g ref="char:EOLhyphen"/>gain; who, though he was not there pre<g ref="char:EOLhyphen"/>ſent, his Captain and Lievtenant were taken, the Standard againe indangered, about 100. horſe taken, and ſixty or thereabouts (ſome ſay more) ſlain, and about 50. priſoners; and Captain WATSON the Kings Gentleman Harbinger was taken providing for the Kings march that way.</p>
+            <pb n="4" facs="tcp:155855:4"/>
+            <p>On tueſday the town hung out a white flag, and ſounded for a parley, which was anſwered by the Lord Generall, then they ſent hoſtages from the town and we did the like, which done; a councell of warre was called, which met in Sir Francis Knowles his Houſe. where after conſultation concer<g ref="char:EOLhyphen"/>ning the ſaid Treaty, theſe Propoſitions his Excellency eondiſcended to, viz.</p>
+            <p n="1">1. That the Forces in that town ſhould ſurrender up the town to the King and Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="2">2. That they ſhould march dirctly to Ox<g ref="char:EOLhyphen"/>ford, without doing any act of hoſtility.</p>
+            <p n="3">3. That they ſhould leave behind them in the town ten pieces of Ordnance.</p>
+            <p n="4">4. That the ſaid Forces ſhould free thoſe which they had taken priſoners.</p>
+            <p>Which being fulfilled, his Excellency pro<g ref="char:EOLhyphen"/>miſed them a free paſſage to Oxford, with Bag and Baggage, allowing them ſix houres time to march away in.</p>
+            <p>We had a skirmiſh with the Kings Forces during the Treaty, where we ſlew nere 200. of them, with the loſſe of 6. men, and they were forced to flie to ſave themſelves, not being able to hold us play.</p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:155855:4"/>
+            <p>SIR,</p>
+            <p>THis is to certifie you of a truth, that the King came to <hi>Dorcheſter</hi> on Tueſday laſt, and the town of <hi>Rea<g ref="char:EOLhyphen"/>ding</hi> was yeelded up on Thurſday at 12. of the clocke, and they were to march with bag and baggage, with their Colours diſplaying, with about three thouſand ſouldiers, with foure ſmall Drakes and ten VVaggons, and the Earle of <hi>Eſſex</hi> about three of the clock entred the towne, with Colonell <hi>Hampden</hi> and Serjeant-Major <hi>Skippon,</hi> to view the towne, and three of their Commanders came to view our Ar<g ref="char:EOLhyphen"/>my, and it is ſuppoſed that our Army will advance after them, for our men were very eager to fall on them as they marched out, but that my Lord Gene<g ref="char:EOLhyphen"/>rall (to ſatisfie them) promiſed to give
+<pb n="6" facs="tcp:155855:5"/>every ſouldier twelve ſhillings a peece, and is to be paid on the firſt of May, being Munday, but my Lord Gene<g ref="char:EOLhyphen"/>rall is very unwilling to let many of his ſouldiers enter the town, for feare the towne ſhould be undermined, till they have made further ſearch, for the ſafeguard of our men. Our Regiment is quartered in the Out-works. I have no more to write to you at this time. The next (I hope) ſhall be from <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi> Farewell.</p>
+            <p>The King is returned to <hi>Oxford</hi> this day.</p>
+            <closer>
+               <dateline>From our Camp at <hi>Reading,</hi> 
+                  <date>Aprill 27 afternoon. 1643.</date>
+               </dateline>
+               <signed>Your loving Couſin, <hi>John Alexander.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
